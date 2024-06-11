@@ -1,0 +1,8 @@
+{
+	"OutputFiles": [
+		"../../../arm64/UnrealGame/Shipping/ColorWheelPlugin/Module.ColorWheelPlugin.cpp.o",
+		"../../../arm64/UnrealGame/Shipping/ColorWheelPlugin/Module.ColorWheelPlugin.cpp.o",
+		"../../../x64/UnrealGame/Shipping/ColorWheelPlugin/Module.ColorWheelPlugin.cpp.o",
+		"../../../x64/UnrealGame/Shipping/ColorWheelPlugin/Module.ColorWheelPlugin.cpp.o"
+	]
+}
